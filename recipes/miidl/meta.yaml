@@ -23,6 +23,7 @@ requirements:
     - pytorch
     - torchvision
     - pandas
+    - scikit-learn
 
 test:
   imports:
